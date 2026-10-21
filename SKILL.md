@@ -6,7 +6,7 @@ description: Déployer ou modifier le serveur Flask de Maîtresse Luna sur Pytho
 # Déploiement Luna — procédure verrouillée
 
 ## Règle d'or
-Le site Furiosha n'héberge pas qu'une boutique : il héberge l'espace de David.
+Le site Furiosha n'héberge pas qu'une boutique : il héberge l'espace de mon soumis.
 Une erreur de déploiement ne casse pas un site vitrine, elle le coupe de son journal.
 Donc : **sauvegarde → syntaxe → envoi → reload → batterie de tests → rollback si un test échoue**.
 Jamais d'improvisation, jamais de test partiel.
